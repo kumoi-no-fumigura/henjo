@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/henjo",
  "yomi": "へんじょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "遍昭（816〜890）",
+  "desc": "六歌仙の一人、僧正遍昭の家集。雲林院の親王との贈答や花山での歌など、『古今和歌集』と重なる歌を収める小さな集。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -731,6 +736,6 @@
   "poems": 60,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
